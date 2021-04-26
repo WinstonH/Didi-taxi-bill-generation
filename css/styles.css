@@ -23,7 +23,7 @@
 .extreTable {
     width: 510px;
     height: 40px;
-    font-family: "Microsoft New Tai Lue";
+    font-family: "Microsoft YaHei Regular";
 }
 
 .mainTableDiv {
@@ -59,7 +59,7 @@ thead td {
 
 .mainTable tr {
     border-top: 1px solid #d0d0d0;
-    font-family: "Microsoft New Tai Lue";
+    font-family: "Microsoft YaHei Regular";
 }
 
 .extreInput {
@@ -108,7 +108,7 @@ html, body, .container {
 .page {
     font-weight: bold;
     font-size: x-small;
-    font-family: "Microsoft New Tai Lue";
+    font-family: "Microsoft YaHei Regular";
     position: absolute;
     width: 60px;
     left: 700px;
